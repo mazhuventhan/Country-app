@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Noto;
+  src: url("../public/fonts/NotoSans-Regular.ttf") format('truetype');
+  font-display: swap
+}
+body { margin: 0; font-family: Noto; }
+.custom-nav .nav-link.active {
+  font-weight: 700;
+  color: #000 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.custom-nav .nav-link {
+  margin-left: 10px;
+}

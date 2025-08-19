@@ -1,0 +1,13 @@
+:root {
+  --bg: #0f1222;
+  --card-bg: #151935;
+  --text: #e9ecff;
+  --muted: #aeb6d9;
+  --primary: #6c8cf6;
+  --accent: #00d4ff;
+  --radius: 14px;
+}
+
+* {
+  box-sizing: border-box;
+}
