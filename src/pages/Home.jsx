@@ -57,10 +57,7 @@ export default function Home() {
               </Carousel.Item>
               <Carousel.Item>
                 <img className="d-block w-100 h-100" src="/slides/slide2.svg" alt="Slide 2" />
-              </Carousel.Item>
-              <Carousel.Item>
-                <img className="d-block w-100 h-100" src="/slides/slide3.svg" alt="Slide 3" />
-              </Carousel.Item>
+              </Carousel.Item>             
             </Carousel>
           </Col>
           <Col lg={3} md={4} sm={12} className="order-1 order-md-2">
